@@ -1,0 +1,36 @@
+<html>
+<head> <title> sample webpage </title </head><BODY BGCOLOR= YELLOW>
+<br><br><br>
+<br><b><u><font color= black>NAME: CYKRIS CAYRELLE TICALA </b></u>
+<br><b><u>ADDRESS: BACOLOD CITY</B></U>
+<br><b><u> BIRTHDATE: 09/018/05</b></u>
+<br><b><u>FAVORITE COLOR: PURPLE</font></b></u>
+</body>
+</html>
+
+<br><br><p align = "center"> 
+<B> <U><font size ="4"font color= black>If You Love Someone </font></U></B><br><br>
+<font size= "2" font color= black>by: Author Unknown, Source Unknown</font><br><br>
+<I><font color="blue">Here are times in life...<br>
+When the person you will love,<br>
+For the rest of your life.<br>
+Walks into your life.</font></I><br>
+<br>
+<font color= black><b><u>Sometimes, just sometimes...<br>
+You hurt that person,<br>
+You push them away.<br>
+Not meaning to,<br>
+But you do.</font></u></b><br>
+<br>
+<font color="red">At times...<br>
+You are afraid,<br>
+To go on, after this.<br>
+But what choice do you have? </font></p>
+<br><br><p align= right>
+<font color= black><b>All you can do...<br>
+Is hope that one day,<br>
+If that person really was the one.<br>
+You will meet again.<br></b>
+<br>
+And if, just by chance...<br>
+You get that second chance,<br>
